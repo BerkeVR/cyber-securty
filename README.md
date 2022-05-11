@@ -5,9 +5,6 @@
   - [[MDISEC] siber güvenlikte nasıl gelişebilirim, nerden baslamaliyim?](https://www.mehmetince.net/siber-guvenlik-alaninda-kendimi-nasil-gelistirebilirim-nereden-baslamaliyim/)
 
 
-* ### Pdfler
-  - [beyzanin mega](https://mega.nz/folder/eFoUzLbb#6rsSXSaVJ48q_xPy52ZE9g)
-
 * ### Network
 
   - https://berqnet.com/uploads/herkesicin_siberguvenlik.pdf
@@ -502,30 +499,6 @@
   - [arch linux steam icin butun oyun hatalari ve cozumleri](https://wiki.archlinux.org/title/Steam/Troubleshooting)
   - [sayi sistemlerinin birbiri arasinda donusumu](https://koddefteri.net/dijital-elektronik/sayi-sistemlerinin-birbiri-arasinda-donusumu.html)
   - [ccna exam and ansvers](https://itexamanswers.net/ccna-200-301-dumps-full-questions-exam-study-guide-free.html)
-
-
-* ### Kaliteli Siber & Yazilim Discord Sunuculari
-  - [Cyber White](https://discord.gg/wTcCH445Aj)
-  - [Yusuf Ipek](https://discord.gg/36nauqXJgd)
-  - [Utku Sen](https://discord.gg/GgbRTzfZdA)
-  - [om3rcitak](https://discord.gg/SyBYV7YK2c)
-  - [Dev Sec](https://discord.gg/AxRbneKFM7)
-  - [HakanBey](https://discord.gg/FehaB4hC82)
-  - [Soft Sec](https://discord.com/invite/u4cX3RnPkN)
-  - [Hacker 101](https://discord.gg/SqqWAgSyh9)
-  - [LuNiZzers](https://discord.gg/lunizz)
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
