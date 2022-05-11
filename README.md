@@ -1,5 +1,3 @@
-<a href="https://discordapp.com/users/850031066626129931" target="_blank">	<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"> </a>
-
 <h1 align="center">Kaynaklar</h1>
 
   - [[MDISEC] siber güvenlikte nasıl gelişebilirim, nerden baslamaliyim?](https://www.mehmetince.net/siber-guvenlik-alaninda-kendimi-nasil-gelistirebilirim-nereden-baslamaliyim/)
